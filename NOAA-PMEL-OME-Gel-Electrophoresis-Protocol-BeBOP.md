@@ -77,7 +77,7 @@ detection_criteria: visible band on the gel
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
-|CICOES| Cooperative Institute for Climate, Ocean, & Ecosystem Studies|
+|CICOES| Cooperative Institute for Climate, Ocean, and Ecosystem Studies|
 |DNA| Deoxyribonucleic acid |
 |EtOH| Ethanol|
 |NOAA|National Oceanic and Atmospheric Administration|
@@ -266,7 +266,7 @@ To make a 1% agarose gel:
 3. Cover PCR plate rack with parafilm. Gently push parafilm into divots on PCR plate rack to create wells for dye. This is an optional step, but helps ensure samples stay seperate.
 4. Use 0.5-10 μL pipettor to pipette 3.2 μL of diluted dye mixture onto parafilm. Prepare one drop of dye for each sample being loaded.
     * A multichannel pipette can be used for this step.
-    * Non-filtered pipette tips can be used **only** for this step. If using these tips, it is reccomended to also use a dedicated.
+    * Non-filtered pipette tips can be used **only** for this step. If using these tips, it is reccomended to also use a dedicated pipette.
 
 5. Pull back foil of PCR plate. We pull back three columns at a time to prevent cross-contamination and evaporation. Pipette 2 μL PCR product into dye, mix by pipetting up and down ~4 times.
 
@@ -302,7 +302,7 @@ This methodology is specific to the Analytikjena UVP GelStudio reader.
 5. Take a photo by clicking the camera icon in the bottom right corner.
     * To save the photo, go to File then Export for Publication. Save as PNG. Saving as a JPEG or TIFF reduces resolution or leads to issues with brightness, respectively. 
     * Add to corresponding folder and name appropriately.
-    * Ensure if large gel runs off screen that you capture two photos (i.e., the full gel.
+    * Ensure if large gel runs off screen that you capture two photos (i.e., the full gel.)
     
 6. Use spatula to scoop gel off of reader, and dispose of complete gels. Wipe down the gel reader with a kimwipe. 
 7. Rinse the rig with freshwater. Recommend performing a more extensive wash every ~2 weeks. The gel tray should be washed and wiped down after every use.
