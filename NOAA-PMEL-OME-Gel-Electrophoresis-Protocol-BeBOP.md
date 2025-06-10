@@ -87,6 +87,7 @@ detection_criteria: visible band on the gel
 |PMEL |Pacific Marine Environmental Laboratory|
 |RO| Reverse osmosis|
 |TAE | Tris Acetate |
+|UV| Ultraviolet|
 |UW| University of Washington
 
 ### Glossary
