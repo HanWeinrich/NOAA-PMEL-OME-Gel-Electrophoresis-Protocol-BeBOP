@@ -1,4 +1,4 @@
-# NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP
+# NOAA-PMEL-OME_Gel_Electrophoresis_Protocol_BeBOP
 
 [![DOI](https://zenodo.org/badge/996380281.svg)](https://doi.org/10.5281/zenodo.15627628)
 
