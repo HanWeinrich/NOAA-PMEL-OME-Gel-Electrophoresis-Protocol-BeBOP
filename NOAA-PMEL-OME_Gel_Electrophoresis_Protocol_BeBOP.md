@@ -72,7 +72,7 @@ detection_criteria: visible band on the gel
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-06-04 | Initial release |
-| 1.0.0 | 2025-11-06 | Minor revisions to author list and safety guidelines |
+| 1.0.1 | 2025-11-06 | Minor revisions to author list and safety guidelines |
 
 ### Acronyms and Abbreviations
 
