@@ -9,13 +9,13 @@ broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic z
 local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024]
 environmental_medium: sea water [ENVO:00002149], tissue [UBERON:0000479], planktonic material [ENVO:01000063]
 target: PCR product [OBI:0000406]
-creator: Shannon Brown, Han Weinrich, Mckenna Dailey 
+creator: Shannon Brown, Han Weinrich, Kenna Dailey 
 materials_required: agarose gel electrophoresis system [OBI:0001134]
 skills_required: sterile technique, pipetting skills, standard molecular technique
 time_required: 165
 personnel_required: 1
 language: en
-issued: 2025-06-04
+issued: 2025-11-06
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 
@@ -50,7 +50,7 @@ detection_criteria: visible band on the gel
 | ------------- | ------------- | ------------- | ------------- |
 | Shannon Brown | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0000-0001-9808-2638 |2025-05-22|
 | Han Weinrich  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0009-0007-6063-0986 |2025-05-22|
-| Mckenna Dailey  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0009-0008-5542-5336 |2025-05-22|
+| Kenna Dailey  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0009-0008-5542-5336 |2025-05-22|
 
 ### Related Protocols
 
@@ -72,6 +72,7 @@ detection_criteria: visible band on the gel
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-06-04 | Initial release |
+| 1.0.0 | 2025-11-06 | Minor revisions to author list and safety guidelines |
 
 ### Acronyms and Abbreviations
 
@@ -127,7 +128,7 @@ One person with molecular biology experience.
 
 ### Safety
 
-This protocol does not involve any hazardous chemicals, although standard precautions, including wearing PPE, should be taken to avoid skin and eye exposure to bleach, ethanol, and agarose.
+This protocol uses bleach and ethanol, both of which are classified as hazardous chemicals. Appropriate PPE must be worn, and standard safety procedures should be followed to avoid skin and eye exposure.
 
 ### Training Requirements
 
@@ -203,11 +204,11 @@ For one large gel (96 samples plus 4 ladder wells)
 
 To minimize the risk of cross-contamination, this protocol should be carried out in a dedicated space for post-PCR product handling, separate from areas designated for low-biomass bench work. Equipment should not be shared between spaces.
 
-The benches and equipment should be wiped down with 10% bleach, followed by 70% ethanol. This cleaning procedure ensures the removal of potential contaminants, maintaining the integrity of the results. Additionally, it is recommended to use dedicated pipettes, filter tips, and other consumables specific to post-PCR.
+The benches and equipment should be wiped down with 10% bleach, followed by 70% EtOH. This cleaning procedure ensures the removal of potential contaminants, maintaining the integrity of the results. Additionally, it is recommended to use dedicated pipettes, filter tips, and other consumables specific to post-PCR.
 
 #### Loading Dye
 
-Prepare several PCR tube strips of working stock dye and store in the fridge. Add 60 μL dye + 100 μL RNA/DNA-free water to tube strip, creating a diluted dye mixture.
+Prepare several PCR tube strips of working stock dye and store in the fridge. Add 60 μL dye + 100 μL RNA/DNA-free water to the tube strip, creating a diluted dye mixture.
 
 #### Ladder
 
@@ -223,14 +224,14 @@ Enough 1x TAE buffer - both for filling the gel rig and for making the gel - is 
 
 Gather the appropriate gel combs depending on the number of samples being loaded. There should be a well for each sample, along with at least 2-4 spaces for ladder (2 ladder wells per row of samples is recommended).
 
-Squeeze the gel tray into the corresponding rig or external gel caster (depending on the size and brand of the rig). Make sure gaskets are snug and not kinked or extruded; use 1x TAE to wet and lubricate if needed. Ensure that gel tray is on a flat surface and level.
+Squeeze the gel tray into the corresponding rig or external gel caster (depending on the size and brand of the rig). Make sure gaskets are snug and not kinked or extruded; use 1x TAE to wet and lubricate if needed. Ensure that the gel tray is on a flat surface and level.
 
 
 ### Making a Gel
 
 To make a 1% agarose gel:
 
-1. Measure an appropriate volume of 1x TAE using a 1000 mL graduated cylinder and add to a clean 500 mL Pyrex. Use a scale to measure agarose on a weigh boat. Add agarose to 1x TAE, then swirl to mix in agarose before heating. Quantities of TAE and agarose will vary depending on the size of rig used. 
+1. Measure an appropriate volume of 1x TAE using a 1000 mL graduated cylinder and add to a clean 500 mL Pyrex. Use a scale to measure agarose on a weigh boat. Add agarose to 1x TAE, then swirl to mix in agarose before heating. Quantities of TAE and agarose will vary depending on the size of the rig used. 
 
 | Rig size | 1x TAE | Agarose|
 | ----- | ----- | ----|
@@ -238,7 +239,7 @@ To make a 1% agarose gel:
 | Medium |  80 mL | 0.8 g|
 | Large | 150 mL | 1.5 g|
 
-2. Microwave the Pyrex with TAE and agarose mixture on high until it begins boiling. Put on heat-resistant gloves, remove the Pyrex from the microwave, and swirl gently. Heat until the mixture is completely dissolved with no visible particles - this may take multiple rounds. Do not allow mixture to remain at a boil for more than 30 seconds, as mixture may boil over the rim of the pyrex.
+2. Microwave the Pyrex with TAE and agarose mixture on high until it begins boiling. Put on heat-resistant gloves, remove the Pyrex from the microwave, and swirl gently. Heat until the mixture is completely dissolved with no visible particles - this may take multiple rounds. Do not allow the mixture to remain at a boil for more than 30 seconds, as the mixture may boil over the rim of the Pyrex.
 3. Allow agarose mixture to cool to touch temperature (i.e., cool enough to hold comfortably or ~55 °C). Large gels take 20-25 minutes. Swirl occasionally to prevent gel from congealing around the edges of the container. If necessary, cooling can be expedited by running the exterior of the Pyrex under cool water after 10 minutes. 
 4. Remove GelRed from dark storage and spin down if needed. Add GelRed to cooled agarose mixture using a 0.5-10 μL or 20-200 μL pipette, depending on rig size. Swirl into the solution.
 
@@ -260,16 +261,16 @@ To make a 1% agarose gel:
 
 1. Load ladder lanes by pipetting 5.4 μL of pre-made ladder into each corresponding ladder well or following the recipe for a single-well ladder preparation.
     * For large gels, we place a ladder in each corner (4 in total). 
-     * Non-filtered pipette tips can be used **only** for this step as there is no PCR product.
+     * Non-filtered pipette tips can be used **only** for this step, as there is no PCR product.
 
 2. Spin down the PCR plate, double-checking how many wells are filled with PCR product and checking for evaporation.
 
-3. Cover PCR plate rack with parafilm. Gently push parafilm into divots on the PCR plate rack to create wells for dye. This is an optional step, but it helps ensure samples stay separate.
+3. Cover the PCR plate rack with parafilm. Gently push parafilm into divots on the PCR plate rack to create wells for dye. This is an optional step, but it helps ensure samples stay separate.
 4. Use a 0.5-10 μL pipette to pipette 3.2 μL of diluted dye mixture onto parafilm. Prepare one drop of dye for each sample being loaded.
     * A multichannel pipette can be used for this step.
     * Non-filtered pipette tips can be used **only** for this step. If using these tips, it is recommended to also use a dedicated pipette.
 
-5. Pull back the foil of PCR plate. We pull back three columns at a time to prevent cross-contamination and evaporation. Pipette 2 μL PCR product into dye, mix by pipetting up and down ~4 times.
+5. Pull back the foil of the PCR plate. We pull back three columns at a time to prevent cross-contamination and evaporation. Pipette 2 μL PCR product into the dye, mix by pipetting up and down ~4 times.
 
 6. Load gel (5.2 μL total). Begin loading with A1 (leftmost well in your first row, next to the ladder well). If using a multichannel pipette, go column by column in the PCR plate, starting with A1 through H1. This will fill every other well. 
     * Gently lower the tip below the surface of the buffer, hovering at the entrance of the well, and slowly dispense the sample into the well without piercing the gel.
@@ -295,15 +296,15 @@ To make a 1% agarose gel:
 This methodology is specific to the Analytikjena UVP GelStudio reader.
 
 1. Power on the gel reader. Open the door, pull out the shelf, and then shift the UV plate slightly forward to add gel. Push the UV plate back into position and close the door.
-    * Large gels may run off the glass area of the plate; start with gel shifted to the right.
-3. Open VisionWorks software and click DNA Gel Electrophoresis.
+    * Large gels may run off the glass area of the plate; start with the gel shifted to the right.
+3. Open VisionWorks software and click on DNA Gel Electrophoresis.
 4. On the right side of the screen, click the light and turn on the UV/Blue light. Then click filters, and turn on Ethidium Bromide (EtBr). Return to the camera.
 5. Next, use the camera to live view on manual to view the gel. Suggest playing with exposure (seconds) and settings under the lens tab (i.e., brightness). This allows you to see what looks best for taking a photo for subsequent annotation of the gel. 
 
 5. Take a photo by clicking the camera icon in the bottom right corner.
     * To save the photo, go to File, then Export for Publication. Save as PNG. Saving as a JPEG or TIFF reduces resolution or leads to issues with brightness, respectively. 
     * Add to the corresponding folder and name appropriately.
-    * Ensure ifa  large gel runs off screen that you capture two photos (i.e., the full gel).
+    * If a large gel runs off the screen that you capture two photos (i.e., the full gel).
     
 6. Use a spatula to scoop gel off of reader, and dispose of the complete gels. Wipe down the gel reader with a kimwipe. 
 7. Rinse the rig with freshwater. Recommend performing a more extensive wash every ~2 weeks. The gel tray should be washed and wiped down after every use.
